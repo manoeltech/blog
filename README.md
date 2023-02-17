@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Seja muito bem vindo ao blog do Manoel! Trabalharemos com `Ruby on rails e Bulma CSS`! <br><br>
+Neste projeto será possível fazer cadastro, autenticação, escrever, ler e visualizar publicações.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Dependências:
+- Ruby on rails 6.0;
+- Bulma CSS;
+- Action text;
+- Image Text
+Devise
